@@ -26,5 +26,5 @@ Android
 5. Wait for red light to stop blinking and show constant on Bluetooth module 
 6. Select either XY Pad or Slider to begin changing values of selected effect 
  
-
+ 
 
